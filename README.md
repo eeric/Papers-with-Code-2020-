@@ -42,4 +42,24 @@ https://mp.weixin.qq.com/s/5nGY6MHoCdIH3BEM3m67MQ
 9.FairSeq — PyTorch — https://github.com/pytorch/fairseq
 
 10.Gluon CV — DMLC — https://github.com/dmlc/gluon-cv
+### 2020顶流Benchmarks
+1.ImageNet — Image Classification — https://paperswithcode.com/sota/image-classification-on-imagenet
+
+2.COCO — Object Detection / Instance Segmentation — https://paperswithcode.com/sota/object-detection-on-coco
+
+3.Cityscapes — Semantic Segmentation — https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes
+
+4.CIFAR-10 — Image Classification — https://paperswithcode.com/sota/image-classification-on-cifar-10
+
+5.CIFAR-100 — Image Classification — https://paperswithcode.com/sota/image-classification-on-cifar-100
+
+6.PASCAL VOC 2012 — Semantic Segmentation — https://paperswithcode.com/sota/semantic-segmentation-on-pascal-voc-2012
+
+7.MPII Human Pose — Pose Estimation — https://paperswithcode.com/sota/pose-estimation-on-mpii-human-pose
+
+8.Market-1501 — Person Re-Identification — https://paperswithcode.com/sota/person-re-identification-on-market-1501
+
+9.MNIST — Image Classification — https://paperswithcode.com/sota/image-classification-on-mnist
+
+10.Human 3.6M — Human Pose Estimation -https://paperswithcode.com/sota/pose-estimation-on-mpii-human-pose
 
