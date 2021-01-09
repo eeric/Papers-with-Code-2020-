@@ -23,4 +23,23 @@ https://mp.weixin.qq.com/s/5nGY6MHoCdIH3BEM3m67MQ
 
 10.Hierarchical Multi-Scale Attention for Semantic Segmentation — Tao et al https://paperswithcode.com/paper/hierarchical-multi-scale-attention-for
 ### 2020顶流代码库
+1.Transformers — Hugging Face — https://github.com/huggingface/transformers
+
+2.PyTorch Image Models — Ross Wightman — https://github.com/rwightman/pytorch-image-models
+
+3.Detectron2 — FAIR — https://github.com/facebookresearch/detectron2
+
+4.InsightFace — DeepInsight — https://github.com/deepinsight/insightface
+
+5.Imgclsmob — osmr — https://github.com/osmr/imgclsmob
+
+6.DarkNet — pjreddie — https://github.com/pjreddie/darknet
+
+7.PyTorchGAN — Erik Linder-Norén — https://github.com/eriklindernoren/PyTorch-GAN
+
+8.MMDetection — OpenMMLab — https://github.com/open-mmlab/mmdetection
+
+9.FairSeq — PyTorch — https://github.com/pytorch/fairseq
+
+10.Gluon CV — DMLC — https://github.com/dmlc/gluon-cv
 
