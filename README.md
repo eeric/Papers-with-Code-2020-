@@ -2,6 +2,8 @@
 顶流论文+顶流代码+Benchmarks
 ## original blog
 https://mp.weixin.qq.com/s/5nGY6MHoCdIH3BEM3m67MQ
+## english original blog
+英文原文：https://medium.com/paperswithcode/papers-with-code-2020-review-938146ab9658
 ### 2020顶流论文
 1.EfficientDet: Scalable and Efficient Object Detection — Tan et al https://paperswithcode.com/paper/efficientdet-scalable-and-efficient-object
 
