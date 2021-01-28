@@ -44,7 +44,7 @@ https://mp.weixin.qq.com/s/5nGY6MHoCdIH3BEM3m67MQ
 9.FairSeq — PyTorch — https://github.com/pytorch/fairseq
 
 10.Gluon CV — DMLC — https://github.com/dmlc/gluon-cv
-### 2020顶流Benchmarks
+### 2020顶级Benchmarks
 1.ImageNet — Image Classification — https://paperswithcode.com/sota/image-classification-on-imagenet
 
 2.COCO — Object Detection / Instance Segmentation — https://paperswithcode.com/sota/object-detection-on-coco
