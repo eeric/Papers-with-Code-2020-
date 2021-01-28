@@ -1,10 +1,10 @@
 # Papers-with-Code-2020
-顶流论文+顶流代码+Benchmarks
+顶级论文+顶级代码+Benchmarks
 ## original blog
 https://mp.weixin.qq.com/s/5nGY6MHoCdIH3BEM3m67MQ
 ## english original blog
 英文原文：https://medium.com/paperswithcode/papers-with-code-2020-review-938146ab9658
-### 2020顶流论文
+### 2020顶级论文
 1.EfficientDet: Scalable and Efficient Object Detection — Tan et al https://paperswithcode.com/paper/efficientdet-scalable-and-efficient-object
 
 2.Fixing the train-test resolution discrepancy — Touvron et al https://paperswithcode.com/paper/fixing-the-train-test-resolution-discrepancy-2
@@ -24,7 +24,7 @@ https://mp.weixin.qq.com/s/5nGY6MHoCdIH3BEM3m67MQ
 9.Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer — Raffel et al https://paperswithcode.com/paper/exploring-the-limits-of-transfer-learning
 
 10.Hierarchical Multi-Scale Attention for Semantic Segmentation — Tao et al https://paperswithcode.com/paper/hierarchical-multi-scale-attention-for
-### 2020顶流代码库
+### 2020顶级代码库
 1.Transformers — Hugging Face — https://github.com/huggingface/transformers
 
 2.PyTorch Image Models — Ross Wightman — https://github.com/rwightman/pytorch-image-models
